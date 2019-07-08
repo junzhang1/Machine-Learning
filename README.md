@@ -1,6 +1,8 @@
 # Machine-Learning
 These are my Machine Learning assignments. I built the following models from scratch:
-1. Convolutional Neural Network -- CNN.pdf, finetune.py
+1. Convolutional Neural Network -- CNN.pdf, finetune.py  
+•  Developed a convolutional neural network based deep learning model to label landmark with an accuracy of 72% using 
+    Pytorch.
 2. Naive Bayes -- Naive Bayes.pdf, nb.py, nbStopWords.py, smoothing.py, topwords.py, topwordsLogOdds.py  
   •  Implemented the Naïve Bayes algorithm from scratch, using smoothing; achieved an accuracy of 86.11%.  
   •  Preprocessed datasets and removed stop words, printed out top words to study each class.
