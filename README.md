@@ -11,5 +11,7 @@ These are my Machine Learning assignments. I built the following models from scr
 4. Neural Network -- neural network.pdf, NN_education.py, NN_music.py  
   •  Developed one hidden layer feed forward neural network from scratch using NumPy.  
   •  Implemented backpropagation to find gradients; used Gradient Descent and Stochastic Gradient Descent to optimize parameters.  
-  •  Trained the neural network to predict final student total scores and achieve 88% accuracy on test dataset.  
+  •  Trained the neural network to predict final student total scores and achieved 88% accuracy on test dataset.  
 5. Decision Tree -- decision tree.pdf, inspect.py, decisiontree_answer.py 
+  •  Calculated the label entropy at the root and the error rate of classifying using amajority vote.
+  •  Implemented a decision tree learner from scratch and achieved 89% accuracy on test dataset.
